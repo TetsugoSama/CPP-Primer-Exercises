@@ -12,16 +12,18 @@ int main()
     cin >> var1 >> var2;
     if (var1 < var2)
     {
-        for (; var1 <= var2; var1++)
+        while (var1 <= var2)
         {
             cout << var1 << ' ';
+            var1++;
         }
     }
     else
     {
-        for (; var1 >= var2; var1--)
+        while (var1 >= var2)
         {
             cout << var1 << ' ';
+            var1--;
         }
     }
 
