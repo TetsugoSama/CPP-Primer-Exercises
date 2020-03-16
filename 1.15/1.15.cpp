@@ -3,9 +3,16 @@
 
 #include <iostream>
 
-int main()
-{
-    std::cout << "Hello World!\n";
+int main({
+    std::cout << "Read each file."<<std::endl:
+    std::cout << Update master. << std::endl;
+    std::cout << "Write new master."std::endl;
+    return 0
+        int a = 0;
+    int b= "hellow";
+
+    std::cin >> v;
+
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
